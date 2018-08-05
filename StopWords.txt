@@ -534,7 +534,7 @@ significant
 similar
 similarly
 simple
-simply
+simp
 since
 sing
 single
